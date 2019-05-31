@@ -8,12 +8,9 @@ a{
     color: blue;
     font-size: 30px;
     font-style: bold;
-    padding-right: 15px;
-    
+    padding-right: 15px; 
 }
-.btn{
-    margin-right: auto;
-    margin-left: auto;
+
 }
 a:hover{
     color: rgb(243, 17, 243);
@@ -28,7 +25,4 @@ h1{
     margin: auto;
     color: red;
     
-}
-.center{
-    margin: auto;
 }
